@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "231362267365",
+    "project_id": "floandroid",
+    "storage_bucket": "dvcard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231362267365:android:43fd488e171a5ac2e9ac0c",
+        "android_client_info": {
+          "package_name": "com.example.floandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231362267365-asjs0lnkuebuggpg5u2rfgqlqc180sf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.floandroid",
+            "certificate_hash": "129b6fc6c2aa1ed012d2c442c50291b35dfe35b6"
+          }
+        },
+        {
+          "client_id": "231362267365-31mv41t94uuo9qj5hejk7aef64ngk6vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtxX6lT0wJXfJxYMBUKmrNtQUQhVgne0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231362267365-31mv41t94uuo9qj5hejk7aef64ngk6vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
